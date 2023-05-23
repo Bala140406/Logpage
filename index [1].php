@@ -1,3 +1,7 @@
+<?php
+        include("connection.php")
+?>
+
 <!DOCTYPE html>
 <!-- Created by meh -->
 <html lang="en" dir="ltr">
